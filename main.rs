@@ -1,5 +1,5 @@
 // Copyright © 2025 theplaceincan
-// ***** Workout Calculator *****
+// ******* Ze Workout Calculator *******
 
 use std::io;
 
