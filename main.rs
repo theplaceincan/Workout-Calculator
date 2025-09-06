@@ -44,7 +44,6 @@ fn get_numeric_input(prompt: &str) -> f64 {
   }
 }
 
-
 // --------- Function to calculate BMR
 fn calculate_bmr(weight_lbs: f64, height_cm: f64, age: f64, gender: &str) -> f64 {
   let weight_kg = weight_lbs * KG_PER_LB;
